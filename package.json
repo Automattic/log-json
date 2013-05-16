@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "json-stringify-safe": "~4.0.0",
+    "debug": "~0.7.2"
+  }
+}
