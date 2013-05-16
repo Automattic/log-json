@@ -1,4 +1,7 @@
 {
+  "name": "log",
+  "private": true,
+  "version": "1.0.0",
   "dependencies": {
     "json-stringify-safe": "~4.0.0",
     "debug": "~0.7.2"
