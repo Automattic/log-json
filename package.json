@@ -2,6 +2,11 @@
   "name": "log-json",
   "version": "1.0.0",
   "description": "JSON stream logging utility",
+  "author": "Automattic, Inc.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Automattic/log-json.git"
+  },
   "dependencies": {
     "json-stringify-safe": "~5.0.0",
     "debug": "~0.8.0"
