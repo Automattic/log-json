@@ -4,7 +4,7 @@
  */
 
 var stringify = require('json-stringify-safe');
-var debug = require('debug')('log');
+var debug = require('debug')('log-json');
 
 /**
  * Return Error JSON value.
