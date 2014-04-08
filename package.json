@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "JSON stream logging utility",
   "dependencies": {
-    "json-stringify-safe": "~4.0.0",
-    "debug": "~0.7.2"
+    "json-stringify-safe": "~5.0.0",
+    "debug": "~0.8.0"
   }
 }
