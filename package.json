@@ -1,7 +1,7 @@
 {
-  "name": "log",
-  "private": true,
+  "name": "log-json",
   "version": "1.0.0",
+  "description": "JSON stream logging utility",
   "dependencies": {
     "json-stringify-safe": "~4.0.0",
     "debug": "~0.7.2"
