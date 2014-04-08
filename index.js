@@ -108,7 +108,7 @@ Logger.prototype.log = function(level, args){
 
   // production
   try {
-    var json = stringify([name, level, new Date, scope, data]);
+    var json = stringify([name, level, new Date(), scope, data]);
     console.log('Event:', json);
   } catch (err) {
     console.error(err.stack);
