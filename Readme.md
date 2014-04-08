@@ -1,8 +1,8 @@
 
-# log
+# log-json
 
 ```js
-var Log = require('log');
+var Log = require('log-json');
 var log = new Log('backend-web');
 
 log.debug('removed');
